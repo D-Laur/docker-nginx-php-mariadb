@@ -1,1 +1,2 @@
-./app/public/*
+app/public/*
+.DS_store
